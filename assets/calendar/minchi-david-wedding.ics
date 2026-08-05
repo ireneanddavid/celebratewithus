@@ -4,9 +4,9 @@ PRODID:-//Minchi and David//Wedding Invitation//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:20261129T113000-minchi-david-wedding@minchianddavid.github.io
+UID:20261129T110000-minchi-david-wedding@minchianddavid.github.io
 DTSTAMP:20260721T120000Z
-DTSTART;TZID=Asia/Taipei:20261129T113000
+DTSTART;TZID=Asia/Taipei:20261129T110000
 DTEND;TZID=Asia/Taipei:20261129T150000
 SUMMARY:Minchi & David's Wedding Day
 DESCRIPTION:We look forward to celebrating with you!
